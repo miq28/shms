@@ -53,7 +53,7 @@
        y="0">
       <path
          d="M8 4 l-4,4"
-         stroke="white"
+         stroke=white
          stroke-width="0.25"
          linecap="square"
          id="path878151" />
